@@ -1,18 +1,18 @@
 {
 	"head": {
-		"title": "SimonAKing",
+		"title": "Anyaer",
 		"description": "Author:SimonAKing,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
+		"title": "Anyaer",
 		"subtitle": "Front back left right end engineer",
 		"enter": "enter",
-		"supportAuthor": true,
+		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
+		"name": "Anyaer G.",
 		"signature": "Code & Input & Output",
 		"avatar": {
 			"link": "assets/avatar.jpg",
@@ -21,24 +21,29 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
-				"icon": "bokeyuan",
+				"href": "https://sonic.520717.xyz",
+				"icon": "blog",
 				"text": "Blog"
 			},
 			"second": {
 				"href": "about/",
-				"icon": "xiaolian",
+				"icon": "guanyu",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
-				"icon": "email",
-				"text": "Email"
+				"href": "gallery/",
+				"icon": "xiangce",
+				"text": "Gallery"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/sucooer",
 				"icon": "github",
 				"text": "Github"
+			},
+			"fifth": {
+				"href": "https://x.com/Saitoling",
+				"icon": "tuite",
+				"text": "Twitter"
 			}
 		}
 	}
