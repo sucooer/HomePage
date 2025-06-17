@@ -1,18 +1,18 @@
 {
 	"head": {
-		"title": "Anyaer",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "Anyaer • G.",
+		"description": "Author:Anyaer • G.,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Anyaer",
+		"title": "Anyaer • G.",
 		"subtitle": "Front back left right end engineer",
 		"enter": "enter",
 		"supportAuthor": false,
 		"background": true
 	},
 	"main": {
-		"name": "Anyaer G.",
+		"name": "Anyaer • G.",
 		"signature": "Code & Input & Output",
 		"avatar": {
 			"link": "assets/avatar.jpg",
@@ -44,6 +44,21 @@
 				"href": "https://x.com/Saitoling",
 				"icon": "tuite",
 				"text": "Twitter"
+			},
+			"sixth": {
+				"href": "https://space.bilibili.com/35460208",
+				"icon": "bilibili-line",
+				"text": "Bilibili"
+			},
+			"seventh": {
+				"href": "https://music.163.com/#/user/home?id=247878512",
+				"icon": "yinle",
+				"text": "Netease"
+			},
+			"eighth": {
+				"href": "HeoMusic/",
+				"icon": "yinle1",
+				"text": "Music"
 			}
 		}
 	}
